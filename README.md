@@ -1,2 +1,2 @@
 # PufferPanel Setup
-## Credit to AngelPro
+## Thanks to Angelpro09_Dev
