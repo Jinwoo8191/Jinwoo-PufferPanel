@@ -1,2 +1,2 @@
-# PufferPanel Setup
-## Thanks to Angelpro09_Dev
+# PufferPanel Setup Commands 
+1: . setup_pufferpanel.sh
